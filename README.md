@@ -1,0 +1,2 @@
+# reducer
+all intormation
